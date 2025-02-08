@@ -8,6 +8,7 @@ Durante casi 20 años trabajando en el sector de las Telecomuniciones, instaland
 En estos momentos sigo reciclandome hacia este mundo de la informática y mas especialmete en Ciberseguridad, siendo el BlueTeam lo que más me llama la atención,
 por lo que empeze a formarme, primero de forma autodidacta, existe mucha información en internet,
 y despues de forma reglada, obteniendo:
+
 CFGM de Sistemas Microinformáticos y Redes.
 CNNA I V7.02, Introduction to Networks.
 CNNA II V7.02, Switching, Routing, and Wireless Essentials.
