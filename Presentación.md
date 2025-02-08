@@ -6,7 +6,7 @@ Antiguo estudiante de Ciencias Químicas, al que siempre le llamo la atención e
 Durante casi 20 años trabajando en el sector de las Telecomuniciones, instalando y configurando equipos de diferentes suministradores de Hardware para las operadoras más importantes de España.
 
 En estos momentos sigo reciclandome hacia este mundo de la informática y mas especialmete en Ciberseguridad, siendo el BlueTeam lo que más me llama la atención,
-por lo que empeze a formarme, priemro de forma autodidacta, existe mucha información en internet,
+por lo que empeze a formarme, primero de forma autodidacta, existe mucha información en internet,
 y despues de forma reglada, obteniendo:
 CFGM de Sistemas Microinformáticos y Redes.
 CNNA I V7.02, Introduction to Networks.
