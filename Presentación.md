@@ -10,9 +10,13 @@ por lo que empeze a formarme, primero de forma autodidacta, existe mucha informa
 y despues de forma reglada, obteniendo:
 
 CFGM de Sistemas Microinformáticos y Redes.
+
 CNNA I V7.02, Introduction to Networks.
+
 CNNA II V7.02, Switching, Routing, and Wireless Essentials.
+
 Varios Certificados de Profesionalidad relacionados con redes informáticas.
+
 Y un certificado de Profesionalidad de "Docente para Formación Profesional para el Empleo"
 
 🌱 Actualmente estoy realizando el Certificado Profesional de Ciberseguirdad de Google.
