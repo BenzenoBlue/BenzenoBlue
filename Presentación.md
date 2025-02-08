@@ -20,6 +20,7 @@ Varios Certificados de Profesionalidad relacionados con redes informáticas.
 Y un certificado de Profesionalidad de "Docente para Formación Profesional para el Empleo"
 
 🌱 Actualmente estoy realizando el Certificado Profesional de Ciberseguirdad de Google.
+
 Curso de Especialización en Instalación y Mantenimiento de Sistemas conectados a Internet (IoT), perteneciente al catálogo de de cursos de especialización de FP.
 
 También poseo un certificado B1 de Inglés, que para esto de la Ciberseguridad viene bastante justito, debo de poner mas incapie en este tema, jejejeje.
