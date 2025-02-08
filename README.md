@@ -1,7 +1,6 @@
-## Hi there 👋
-Mi primer archivo de GitHub, servira como presentación.
+About Me:
 
-Antiguo estudiante de Ciencias Químicas, al que siempre le llamo la atención el mundo de la informática y los ordenadores.
+Antiguo estudiante de Ciencias Químicas, interesado en el mundo de la Ciberseguridad.
 
 
 
