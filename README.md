@@ -26,7 +26,7 @@
 - **Cursos**: Cisco Networking Academy, Google Cybersecurity.
 
 ## 📫 Contacto
-- ✉️ Email: ferbaro79@gmail.com
+- ✉️ Email: ferbarod79@gmail.com
 - 💼 LinkedIn: 
 
 
