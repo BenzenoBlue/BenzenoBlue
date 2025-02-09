@@ -1,4 +1,4 @@
-# 👋 Hola, soy Jaime | Blue Team Enthusiast
+# 👋 Hola, soy C6H6 | Blue Team Enthusiast
 
 [![GitHub](https://img.shields.io/badge/GitHub-BenzenoBlue-blue)](https://github.com/BenzenoBlue)
 
