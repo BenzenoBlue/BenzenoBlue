@@ -1,6 +1,6 @@
 About Me:
 
-Antiguo estudiante de Ciencias Químicas, interesado en el mundo de la Ciberseguridad, y mas concretamnete en ele Blur Team.
+Antiguo estudiante de Ciencias Químicas, interesado en el mundo de la Ciberseguridad, y mas concretamnete en el Blue Team.
 
 Actualmente poseo CFGM Sistemas Microinformáticos y Redes.
 
