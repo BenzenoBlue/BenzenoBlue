@@ -1,15 +1,33 @@
-About Me:
+# 👋 Hola, soy Jaime | Blue Team Enthusiast
 
-Antiguo estudiante de Ciencias Químicas, interesado en el mundo de la Ciberseguridad, y mas concretamnete en el Blue Team.
+[![GitHub](https://img.shields.io/badge/GitHub-BenzenoBlue-blue)](https://github.com/BenzenoBlue)
 
-Actualmente poseo CFGM Sistemas Microinformáticos y Redes.
 
-Certificados CNNA I y II, V7.02
+## 🎯 Objetivos
+- Especializarme en **Blue Team**, enfocado en **respuesta a incidentes** y **análisis forense**.
+- Contribuir a proyectos de código abierto relacionados con ciberseguridad.
+- Obtener certificaciones como **CompTIA Security+** y **BTL1**.
 
-Certificados de Profesionalidad ligados a redes informáticas.
+## 🔧 Habilidades Técnicas
+- **Redes**: Cisco CCNA (Switching & Routing), configuración de redes aisladas.
+- **Herramientas**: Splunk, Wireshark, Suricata, VirtualBox.
+- **Hardening**: Configuración segura de sistemas Windows/Linux.
 
-Estoy ralizando el certificado de Ciberseguridad de Google.
+## 📜 Certificaciones
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity)
+- Cisco CCNA (Introducción a Redes + Switching/Routing).
 
+## 🛠️ Proyectos Destacados
+- [Cybersecurity_Lab](https://github.com/BenzenoBlue/Cybersecurity_Lab): Laboratorio Blue Team con escenarios de detección de amenazas.
+- [Informe de Phishing Simulado](https://github.com/BenzenoBlue/Cybersecurity_Lab/tree/main/Scenarios/Phishing-Simulation): Detección y respuesta a un ataque ficticio.
+
+## 📚 Educación
+- **Grado Medio en Sistemas Microinformáticos y Redes**.
+- **Cursos**: Cisco Networking Academy, Google Cybersecurity.
+
+## 📫 Contacto
+- ✉️ Email: ferbaro79@gmail.com
+- 💼 LinkedIn: 
 
 
 
