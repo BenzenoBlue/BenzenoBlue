@@ -1,6 +1,17 @@
 About Me:
 
-Antiguo estudiante de Ciencias Químicas, interesado en el mundo de la Ciberseguridad.
+Antiguo estudiante de Ciencias Químicas, interesado en el mundo de la Ciberseguridad, y mas concretamnete en ele Blur Team.
+
+Actualmente poseo CFGM Sistemas Microinformáticos y Redes.
+
+Certificados CNNA I y II, V7.02
+
+Certificados de Profesionalidad ligados a redes informáticas.
+
+Estoy ralizando el certificado de Ciberseguridad de Google.
+
+
+
 
 
 
