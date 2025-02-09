@@ -18,7 +18,7 @@
 - Cisco CCNA (Introducción a Redes + Switching/Routing).
 
 ## 🛠️ Proyectos Destacados
-- [Cibersecurity-Lab](https://github.com/BenzenoBlue/Cibersecurity-Lab): Laboratorio Blue Team con escenarios de detección de amenazas.
+- [Cibersecurity_Lab](https://github.com/BenzenoBlue/Cibersecurity_Lab): Laboratorio Blue Team con escenarios de detección de amenazas.
 - [Informe de Phishing Simulado](https://github.com/BenzenoBlue/Cybersecurity_Lab/tree/main/Scenarios/Phishing-Simulation): Detección y respuesta a un ataque ficticio.
 
 ## 📚 Educación
