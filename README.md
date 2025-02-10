@@ -6,7 +6,7 @@
 ## 🎯 Objetivos
 - Especializarme en **Blue Team**, enfocado en **respuesta a incidentes** y **análisis forense**.
 - Contribuir a proyectos de código abierto relacionados con ciberseguridad.
-- Obtener certificaciones como **CompTIA Security+** y **BTL1**.
+- Seguir realizando diferentes cursos y certificaciones relacionadas con la Ciberseguridad.
 
 ## 🔧 Habilidades Técnicas
 - **Redes**: Cisco CCNA (Switching & Routing), configuración de redes aisladas.
